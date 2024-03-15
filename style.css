@@ -1,0 +1,12 @@
+.fundo-div{
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(114, 1, 124), rgb(0,0,0));
+    height: 100vh;
+}
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}

@@ -1,0 +1,5 @@
+https://github.com/Ramonmuller1/Jackson.git
+
+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
+
+git remove add ogigin https://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@github.com/Ramonmuller1/Jackson.git
